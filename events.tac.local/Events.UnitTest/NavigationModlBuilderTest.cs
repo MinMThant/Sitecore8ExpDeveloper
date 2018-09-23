@@ -7,8 +7,9 @@ namespace Events.UnitTest
     public class NavigationModlBuilderTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void ReturnsAModel()
         {
+            //var model = _mo
         }
     }
 }
