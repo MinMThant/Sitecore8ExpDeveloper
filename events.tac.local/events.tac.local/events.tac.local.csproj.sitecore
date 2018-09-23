@@ -1,0 +1,18 @@
+﻿<Project>
+  <PropertyGroup>
+    <Site Server="events.tac.local" UserName="sitecore\admin" IsRemoteSitecore="False" />
+  </PropertyGroup>
+  <File Include="Views\TAC\Events\Layouts\Home.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{27C14F35-DC68-4E68-8132-D9491AD23D9A}</Item>
+  </File>
+  <File Include="/Views/TAC/Events/Layouts/Home.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{27C14F35-DC68-4E68-8132-D9491AD23D9A}</Item>
+  </File>
+  <File Include="Views\TAC\Events\Layouts\Events.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0" />
+  <File Include="/Views/TAC/Events/Layouts/Events.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{C3B78AAF-53CC-4F79-9683-634C0FBE6FE8}</Item>
+  </File>
+  <File Include="Views\TAC\Events\HomeContent.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{ABC90544-C36A-4B30-8601-9A115F00F2A0}</Item>
+  </File>
+</Project>
